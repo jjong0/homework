@@ -1,1 +1,7 @@
 /* 여기에 스타일을 구현해 주세요 */
+#circle {
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+  display: flex;
+}
