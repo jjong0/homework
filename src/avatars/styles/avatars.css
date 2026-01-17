@@ -1,5 +1,15 @@
 /* 여기에 스타일을 구현해 주세요 */
+body {
+  height: 100vh;
+  position: relative;
+}
+
 .container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+
+  transform: translate(-50%, -50%);
   padding: 20px;
   width: 400px;
 }
