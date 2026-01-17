@@ -1,4 +1,9 @@
 /* 여기에 스타일을 구현해 주세요 */
+.container {
+  padding: 20px;
+  width: 400px;
+}
+
 .avatar-item {
   float: left;
   position: relative;
