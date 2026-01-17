@@ -35,3 +35,19 @@ body {
   border-radius: 50%;
   object-fit: cover;
 }
+.offline {
+  display: block;
+
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  background-color: #dbdbdb;
+}
+.online {
+  display: block;
+
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  background-color: #4cfe88;
+}
