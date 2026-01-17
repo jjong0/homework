@@ -1,7 +1,16 @@
 /* 여기에 스타일을 구현해 주세요 */
-#circle {
+.avatar-item {
+  float: left;
+  position: relative;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  width: 64px;
+  height: 64px;
+}
+.avatar-img {
+  display: block;
   width: 64px;
   height: 64px;
   border-radius: 50%;
-  display: flex;
+  object-fit: cover;
 }
