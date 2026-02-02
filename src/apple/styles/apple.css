@@ -185,32 +185,32 @@ body {
 }
 
 .img-iphone-pro {
-  background-image: url('/src/apple/products/iphone15_pro.jpeg');
-  background-image: image-set(url('/src/apple/products/iphone15_pro.jpeg') 1x, url('/src/apple/products/iphone15_pro_2x.jpeg') 2x);
+  background-image: url('./src/apple/products/iphone15_pro.jpeg');
+  background-image: image-set(url('./src/apple/products/iphone15_pro.jpeg') 1x, url('./src/apple/products/iphone15_pro_2x.jpeg') 2x);
 }
 .img-ipad-pro {
-  background-image: url('/src/apple/products/ipad_pro.jpeg');
-  background-image: image-set(url('/src/apple/products/ipad_pro.jpeg') 1x, url('/src/apple/products/ipad_pro_2x.jpeg') 2x);
+  background-image: url('./src/apple/products/ipad_pro.jpeg');
+  background-image: image-set(url('./src/apple/products/ipad_pro.jpeg') 1x, url('./src/apple/products/ipad_pro_2x.jpeg') 2x);
 }
 .img-ipad-air {
-  background-image: url('/src/apple/products/ipad_air.jpeg');
-  background-image: image-set(url('/src/apple/products/ipad_air.jpeg') 1x, url('/src/apple/products/ipad_air_2x.jpeg') 2x);
+  background-image: url('./src/apple/products/ipad_air.jpeg');
+  background-image: image-set(url('./src/apple/products/ipad_air.jpeg') 1x, url('./src/apple/products/ipad_air_2x.jpeg') 2x);
 }
 .img-iphone-15 {
-  background-image: url('/src/apple/products/iphone15.jpeg');
-  background-image: image-set(url('/src/apple/products/iphone15.jpeg') 1x, url('/src/apple/products/iphone15_2x.jpeg') 2x);
+  background-image: url('./src/apple/products/iphone15.jpeg');
+  background-image: image-set(url('./src/apple/products/iphone15.jpeg') 1x, url('./src/apple/products/iphone15_2x.jpeg') 2x);
 }
 .img-watch {
-  background-image: url('/src/apple/products/apple_watch.jpeg');
-  background-image: image-set(url('/src/apple/products/apple_watch.jpeg') 1x, url('/src/apple/products/apple_watch_2x.jpeg') 2x);
+  background-image: url('./src/apple/products/apple_watch.jpeg');
+  background-image: image-set(url('./src/apple/products/apple_watch.jpeg') 1x, url('./src/apple/products/apple_watch_2x.jpeg') 2x);
 }
 .img-macbook {
-  background-image: url('/src/apple/products/macbook_air.jpeg');
-  background-image: image-set(url('/src/apple/products/macbook_air.jpeg') 1x, url('/src/apple/products/macbook_air_2x.jpeg') 2x);
+  background-image: url('./src/apple/products/macbook_air.jpeg');
+  background-image: image-set(url('./src/apple/products/macbook_air.jpeg') 1x, url('./src/apple/products/macbook_air_2x.jpeg') 2x);
 }
 .img-airpods {
-  background-image: url('/src/apple/products/airpods_pro.jpeg');
-  background-image: image-set(url('/src/apple/products/airpods_pro.jpeg') 1x, url('/src/apple/products/airpods_pro_2x.jpeg') 2x);
+  background-image: url('./src/apple/products/airpods_pro.jpeg');
+  background-image: image-set(url('./src/apple/products/airpods_pro.jpeg') 1x, url('./src/apple/products/airpods_pro_2x.jpeg') 2x);
 }
 
 @media (min-width: 1024px) {
@@ -237,8 +237,8 @@ body {
   }
 
   .img-iphone-pro {
-    background-image: url('/src/apple/products/iphone15_pro_wide.jpeg');
-    background-image: image-set(url('/src/apple/products/iphone15_pro_wide.jpeg') 1x, url('/src/apple/products/iphone15_pro_wide_2x.jpeg') 2x);
+    background-image: url('./src/apple/products/iphone15_pro_wide.jpeg');
+    background-image: image-set(url('./src/apple/products/iphone15_pro_wide.jpeg') 1x, url('./src/apple/products/iphone15_pro_wide_2x.jpeg') 2x);
     background-position: center bottom;
   }
 }
